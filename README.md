@@ -8,7 +8,7 @@ At the moment, I work with [FirmNav](https://firmnav.com) doing full stack devel
  * Website: [duckapple.net](https://duckapple.net)
  * Twitter: [@The_Duckapple](https://twitter.com/The_Duckapple)
  * LinkedIn: [simon-g-k](https://www.linkedin.com/in/simon-g-k/)
- * Mail: [me@duckapple.net](mailto:me@duckapple.net)
+ * Mail: [github@simon-green.dev](mailto:github@simon-green.dev)
  * Discord: Duckapple#6301
  
 ## Support
