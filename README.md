@@ -1,22 +1,23 @@
 # Welcome to my ~~lair~~ profile!
 
-I am Simon Green Kristensen, a Danish developer.  
-I currently study a bachelors degree in [Software Development](https://en.itu.dk/programmes/bsc-programmes/software-development) at the [IT University of Copenhagen](https://en.itu.dk).  
-At the moment, I work with [FirmNav](https://firmnav.com) doing full stack development in a distributed Typescript stack.
+I am Simon Green Kristensen, a Danish developer formerly with [FirmNav](https://firmnav.com).  
+I currently study a masters degree in [Computer Science](https://en.itu.dk/Programmes/MSc-Programmes/Computer-Science) at the [IT University of Copenhagen](https://en.itu.dk).  
 
 ## Contact
- * Website: [duckapple.net](https://duckapple.net)
- * Twitter: [@The_Duckapple](https://twitter.com/The_Duckapple)
+ * Website: [simon-green.dev](https://simon-green.dev)
+ * Twitter: [@The_Duckapple](https://twitter.com/SimonGreenK)
  * LinkedIn: [simon-g-k](https://www.linkedin.com/in/simon-g-k/)
  * Mail: [github@simon-green.dev](mailto:github@simon-green.dev)
  * Discord: Duckapple#6301
+ * Mastodon: [@SimonGreen@fosstodon.org](https://fosstodon.org/@SimonGreen)
  
 ## Support
  * Ko-fi: [Duckapple](https://ko-fi.com/duckapple)
 
 ## Other things of note
  * As hobbies, I have a 3D printer and play VR games.
- * I run Linux (but just a boring Ubuntu 20.04 release, nothing *fancy*)
+ * Volunteer barista
+ * I run Arch (btw)
  * If you see me applying at a AAA game studio, then please wake me up from my delusions, any way you can.
  * He/Him
  
